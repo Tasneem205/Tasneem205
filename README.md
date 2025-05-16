@@ -17,8 +17,8 @@
 
 📜 <i><b>Favorite Quote:</b></i>  
 ```c
-while (alive) {
-    do_your_best();
+while (still_alive) {
+    keep_going();
 }
 ```
 ## 🛠️ Languages & Frameworks
