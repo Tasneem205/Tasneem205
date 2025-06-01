@@ -13,8 +13,7 @@
 
 🚀 What inspires me is **solving real-world problems through code** and the power of collaborative open-source development. I thrive on challenges and love learning new technologies to stay relevant in the ever-evolving tech world.
 
-🧠 I’m highly interested in **problem solving** and am passionate about **competitive programming**. I enjoy tackling algorithmic challenges, refining my logical thinking, and constantly improving my coding efficiency.
-💻 I maintain a repository where I solve **[Assiut training sheets](https://github.com/Tasneem205/ICPC-Assuit-Sheets-Solution)**, showcasing my approach to diverse algorithmic problems.
+🧠 I’m highly interested in **problem solving** and am passionate about **competitive programming**. I enjoy tackling algorithmic challenges, refining my logical thinking, and constantly improving my coding efficiency. I maintain a repository where I solve **[Assiut training sheets](https://github.com/Tasneem205/ICPC-Assuit-Sheets-Solution)**, showcasing my approach to diverse algorithmic problems.
 
 📜 <i><b>Personal motto:</b></i>  
 ```c
@@ -35,12 +34,12 @@ while (still_alive) {
 ## 📂 Projects I'm Proud Of
 
 🔹 **Chronic Cidney Diseases Clinic & App Management System**  
-📚 A Nodejs backend server for clinic management system and for application made for the patient
-🔗 https://github.com/Tasneem205/ckd_backend_server
+📚 A Nodejs backend server for clinic management system and for application made for the patient  
+🔗 https://github.com/Tasneem205/ckd_backend_server  
 
 🔹 **Weather API Wrapper Service**  
 🌦️ Built a custom weather API wrapper using Nodejs, Visual Crossing, Redis for caching, and MongoDB for storage.  
-🔗 https://github.com/Tasneem205/Weapper
+🔗 https://github.com/Tasneem205/Weapper  
 
 🔹 **Library Management System (Console App)**  
 📚 A Java-based console application with admin and user roles to manage library branches, books, and subscribers.  
