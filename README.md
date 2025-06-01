@@ -21,10 +21,6 @@ while (still_alive) {
     keep_going();
 }
 ```
-
-![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent)
-
-
 ## 🛠️ Languages & Frameworks
 
 - 🧠 Languages: JavaScript, Python, Java, SQL  
@@ -55,8 +51,8 @@ Tech Stack: Node.js, MongoDB, Angular, Bootstrap
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem205&sh
+  ![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
