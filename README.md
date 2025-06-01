@@ -21,6 +21,10 @@ while (still_alive) {
     keep_going();
 }
 ```
+
+![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 ## 🛠️ Languages & Frameworks
 
 - 🧠 Languages: JavaScript, Python, Java, SQL  
