@@ -13,9 +13,10 @@
 
 🚀 What inspires me is **solving real-world problems through code** and the power of collaborative open-source development. I thrive on challenges and love learning new technologies to stay relevant in the ever-evolving tech world.
 
-🧠 I’m highly interested in **problem solving** and have a growing passion for **competitive programming**. I enjoy tackling algorithmic challenges, refining my logical thinking, and constantly improving my coding efficiency.
+🧠 I’m highly interested in **problem solving** and am passionate about **competitive programming**. I enjoy tackling algorithmic challenges, refining my logical thinking, and constantly improving my coding efficiency.
+💻 I maintain a repository where I solve **[Assiut training sheets](https://github.com/Tasneem205/ICPC-Assuit-Sheets-Solution)**, showcasing my approach to diverse algorithmic problems.
 
-📜 <i><b>Favorite Quote:</b></i>  
+📜 <i><b>Personal motto:</b></i>  
 ```c
 while (still_alive) {
     keep_going();
@@ -33,32 +34,31 @@ while (still_alive) {
 
 ## 📂 Projects I'm Proud Of
 
-🔹 **Nemo Gaming Hub**  
-🎮 A web app inspired by Samsung Game Launcher, allowing users to launch and track games.  
-Tech Stack: Node.js, MongoDB, Angular, Bootstrap  
-🔗 https://github.com/tasneemabdeltawab/nemo-gaming-hub
+🔹 **Chronic Cidney Diseases Clinic & App Management System**  
+📚 A Nodejs backend server for clinic management system and for application made for the patient
+🔗 https://github.com/Tasneem205/ckd_backend_server
 
 🔹 **Weather API Wrapper Service**  
-🌦️ Built a custom weather API wrapper using Visual Crossing, Redis for caching, and MongoDB for storage.  
-🔗 https://github.com/tasneemabdeltawab/weather-api-wrapper
+🌦️ Built a custom weather API wrapper using Nodejs, Visual Crossing, Redis for caching, and MongoDB for storage.  
+🔗 https://github.com/Tasneem205/Weapper
 
 🔹 **Library Management System (Console App)**  
 📚 A Java-based console application with admin and user roles to manage library branches, books, and subscribers.  
-🔗 https://github.com/tasneemabdeltawab/library-management-system
+🔗 https://github.com/Tasneem205/library-management-system
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center"><img height="195" src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent" alt="Stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=transparent" alt="Top Langs"></p>
+<p align="center"><img height="195" src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent" alt="Stats">&nbsp;<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=transparent" alt="Top Langs"></p>
 
 ---
 
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tasneemabdeltawab/
-- 💬 Ask Me About: Backend Development, APIs, MongoDB, Redis, Node.js, Problem Solving
-- ✉️ Email: tasneem@example.com
+- 💬 Ask Me About: Backend Development, APIs, SQL, MongoDB, Redis, Node.js, Problem Solving
+- ✉️ Email: tasneemabdeltawab205@gmail.com.com
 
 ---
 
