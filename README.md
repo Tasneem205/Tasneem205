@@ -50,11 +50,7 @@ Tech Stack: Node.js, MongoDB, Angular, Bootstrap
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem205&sh
-  ![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent" alt="Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=radical" alt="Top Langs"></p>
 
 ---
 
