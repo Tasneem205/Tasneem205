@@ -55,9 +55,9 @@ Tech Stack: Node.js, MongoDB, Angular, Bootstrap
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasneemabdeltawab&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneemabdeltawab&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
