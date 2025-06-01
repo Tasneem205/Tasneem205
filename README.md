@@ -22,7 +22,7 @@ while (still_alive) {
 }
 ```
 
-![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent)
 
 
 ## 🛠️ Languages & Frameworks
