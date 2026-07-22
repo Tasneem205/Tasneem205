@@ -49,7 +49,7 @@ while (still_alive) {
 
 ## 📈 GitHub Stats
 
-<p align="center"><img height="195" src="https://github-readme-stats.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent" alt="Stats">&nbsp;<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=transparent" alt="Top Langs"></p>
+<p align="center"><img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=Tasneem205&show_icons=true&theme=transparent" alt="Stats">&nbsp;<img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tasneem205&layout=compact&theme=transparent" alt="Top Langs"></p>
 
 ---
 
